@@ -1,0 +1,4 @@
+[
+    ["多线程", 2  , "Thread(None,%s,None,%s).start()", "threading"],
+    ["输出"  , 1  , "print(%s)"                      , "_"        ]
+]
