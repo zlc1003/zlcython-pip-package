@@ -9,6 +9,7 @@ src/zlcython/coderun.py
 src/zlcython/errentozh.py
 src/zlcython/idle.py
 src/zlcython/ifmaker.py
+src/zlcython/install.py
 src/zlcython/nple.py
 src/zlcython/out.py
 src/zlcython/runzlcython.py
